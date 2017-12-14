@@ -3,4 +3,5 @@ WebGL　チュートリアル
 
 [tutorial01 SimpleTriangle](https://yoshimune.github.io/IndigoCS-webgl-tutorials/tutorial01/simple_triangle.html)  
 [tutorial02 RotationCube](https://yoshimune.github.io/IndigoCS-webgl-tutorials/tutorial02/RotatingCube.html)  
-[tutorial03 TextureCube](https://yoshimune.github.io/IndigoCS-webgl-tutorials/tutorial03/TextureCube.html)
+[tutorial03 TextureCube](https://yoshimune.github.io/IndigoCS-webgl-tutorials/tutorial03/TextureCube.html)  
+[tutorial03_1 TextureCube](https://yoshimune.github.io/IndigoCS-webgl-tutorials/tutorial03_1/TextureCube.html)  
