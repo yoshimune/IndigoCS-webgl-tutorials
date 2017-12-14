@@ -229,8 +229,7 @@ var InitDemo = function() {
   mat4.identity(identityMatrix);
   var angle = 0;
   var loop = function(){
-    angle = (performance.now() / 1000 / 6 * 2 * Math.PI));
-    //angle = (Math.sin(performance.now() / 1000 / 2)) * Math.PI;
+    angle = (Math.sin(performance.now() / 1000 / 2)) * Math.PI;
     mat4.rotate(yRotationMatrix, identityMatrix, angle, [0,1,0]);
     mat4.rotate(xRotationMatrix, identityMatrix, angle * 2, [1,0,0]);
     mat4.mul(worldMatrix, yRotationMatrix, xRotationMatrix);
